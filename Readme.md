@@ -20,5 +20,13 @@ This is a MERN stack project for login and registration functionality.
 2. Run `npm install` to install dependencies.
 3. Run `npm run dev` to start the frontend development server.
 
+## Project Screenshots
+
+![Screenshot 1](assets/screenshots/Home.png)
+![Screenshot 2](assets/screenshots/Signin.png)
+![Screenshot 3](assets/screenshots/Signup.png)
+
+
+
 ## License
 MIT
