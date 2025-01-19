@@ -22,9 +22,9 @@ This is a MERN stack project for login and registration functionality.
 
 ## Project Screenshots
 
-![Screenshot 1](assets/screenshots/Home.png)
-![Screenshot 2](assets/screenshots/Signin.png)
-![Screenshot 3](assets/screenshots/Signup.png)
+![Screenshot 1](assets/screenshots/Home.PNG)
+![Screenshot 2](assets/screenshots/Signin.PNG)
+![Screenshot 3](assets/screenshots/Signup.PNG)
 
 
 
